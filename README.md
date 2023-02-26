@@ -24,6 +24,6 @@ https://i.pinimg.com/564x/5d/1c/cd/5d1ccdc16221bb0c7013fe999c099aaa.jpg
   srcset="https://github-readme-stats.vercel.app/api?username=lexdevs&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=lexdevs&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sofiamaican&show_icons=true" />
 </picture>
 
